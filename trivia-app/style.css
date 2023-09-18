@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px;
+    background-image: url(Fondo.jpg)
+  }
+  
+  h1{
+    color: blueviolet;
+    background-color:cornsilk
+   
+  }
+  
+  .container {
+    max-width: 10000px;
+    margin: 0 auto;
+  }
+  
+  .settings {
+    margin-bottom: 50px;
+    background-color:rgb(251, 246, 228); 
+  }
+  
+  .trivia {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: rgba(243, 193, 174, 0.491);
+  }
+  
+  button {
+    margin: 10px;
+  }
+  
+  
